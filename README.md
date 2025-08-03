@@ -1,1 +1,1 @@
-# legal-ai-mvp
+# Legal-AI MVP
